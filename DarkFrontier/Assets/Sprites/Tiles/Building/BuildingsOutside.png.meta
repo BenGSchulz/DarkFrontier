@@ -1,0 +1,1186 @@
+fileFormatVersion: 2
+guid: 263bcf122d1caa944b10090b06e9a3ac
+timeCreated: 1525113435
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BuildingsOutside_0
+    21300002: BuildingsOutside_1
+    21300004: BuildingsOutside_2
+    21300006: BuildingsOutside_3
+    21300008: BuildingsOutside_4
+    21300010: BuildingsOutside_5
+    21300012: BuildingsOutside_6
+    21300014: BuildingsOutside_7
+    21300016: BuildingsOutside_8
+    21300018: BuildingsOutside_9
+    21300020: BuildingsOutside_11
+    21300022: BuildingsOutside_12
+    21300024: BuildingsOutside_13
+    21300026: BuildingsOutside_14
+    21300028: BuildingsOutside_15
+    21300030: BuildingsOutside_16
+    21300032: BuildingsOutside_17
+    21300034: BuildingsOutside_18
+    21300036: BuildingsOutside_19
+    21300038: BuildingsOutside_20
+    21300040: BuildingsOutside_22
+    21300042: BuildingsOutside_23
+    21300044: BuildingsOutside_24
+    21300046: BuildingsOutside_25
+    21300048: BuildingsOutside_26
+    21300050: BuildingsOutside_27
+    21300052: BuildingsOutside_28
+    21300054: BuildingsOutside_29
+    21300056: BuildingsOutside_30
+    21300058: BuildingsOutside_31
+    21300060: BuildingsOutside_33
+    21300062: BuildingsOutside_34
+    21300064: BuildingsOutside_35
+    21300066: BuildingsOutside_36
+    21300068: BuildingsOutside_37
+    21300070: BuildingsOutside_38
+    21300072: BuildingsOutside_39
+    21300074: BuildingsOutside_40
+    21300076: BuildingsOutside_41
+    21300078: BuildingsOutside_42
+    21300080: BuildingsOutside_43
+    21300082: BuildingsOutside_44
+    21300084: BuildingsOutside_45
+    21300086: BuildingsOutside_46
+    21300088: BuildingsOutside_47
+    21300090: BuildingsOutside_50
+    21300092: BuildingsOutside_51
+    21300094: BuildingsOutside_52
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BuildingsOutside_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -18.433594, y: 20}
+        - {x: -18.433594, y: -5.58902}
+        - {x: -5.0625916, y: -5.2757416}
+        - {x: -4.749298, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: 6.315674, y: 20}
+        - {x: 7.2555237, y: -6.2156067}
+        - {x: 19.373444, y: -6.5288696}
+        - {x: 19.686737, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: 0.050048828, y: 18.533691}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_28
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: 0.9925842, y: 18.960823}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: 0.25271606, y: 18.78292}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_41
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: 0.08843994, y: 19.01773}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -0.0748291, y: 18.81469}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_42
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_43
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_45
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_47
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_50
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsOutside_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
