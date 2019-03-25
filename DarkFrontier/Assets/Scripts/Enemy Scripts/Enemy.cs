@@ -20,9 +20,9 @@ public class Enemy : MonoBehaviour {
 
     protected bool dead;
 
-    private float maxDegree = 90f;
-    private float minDegree = 0f;
-    private float t = 0f;
+    // private float maxDegree = 90f;
+    // private float minDegree = 0f;
+    // private float t = 0f;
 
     // Use this for initialization
     void Start () {
@@ -58,7 +58,7 @@ public class Enemy : MonoBehaviour {
 
     public virtual void Hit() {
         hitsTaken++;
-        if (hitsTaken >= maxHits) {
+        if (hitsTaken >= maxHits && !dead) {
             Die();
         }
     }
@@ -72,9 +72,8 @@ public class Enemy : MonoBehaviour {
         sm.enemiesKilled++;
         dead = true;
 
-        if (sm.enemiesKilled == sm.enemyGoal) {
-            ss.Win();
-        }
+        GetComponent<BoxCollider2D>().enabled = false;
+        GetComponent<Rigidbody2D>().isKinematic = true;
 
         float rand = Random.value;
 
@@ -87,15 +86,20 @@ public class Enemy : MonoBehaviour {
         aud.clip = death;
         aud.Play();
 
-        yield return new WaitForSeconds(.25f);
+        yield return new WaitForSeconds(.35f);
 
-        while (t < 1f) {
-            transform.Rotate(Vector3.forward, Mathf.Lerp(minDegree, maxDegree, t));
-            t += .7f * Time.deltaTime;
-
-            //Debug.Log(t);
-            yield return null;
+        if (sm.enemiesKilled == sm.enemyGoal) {
+            ss.Win();
         }
+
+        // while (t < 1f) {
+        //     float angle  = Mathf.Lerp(minDegree, maxDegree, t);
+        //     transform.Rotate(Vector3.forward, angle);
+        //     t += .7f * Time.deltaTime;
+
+        //     //Debug.Log(t);
+        //     yield return null;
+        // }
 
         Destroy(gameObject);
     }

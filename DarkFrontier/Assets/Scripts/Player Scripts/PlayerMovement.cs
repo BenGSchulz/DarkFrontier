@@ -69,7 +69,7 @@ public class PlayerMovement : MonoBehaviour {
 
     // Update is called once per frame
     void Update() {
-        if (!smScript.paused) {
+        if (!smScript.paused && !dead) {
             hInput = Input.GetAxis("Horizontal");
             vInput = Input.GetAxis("Vertical");
 
@@ -107,11 +107,15 @@ public class PlayerMovement : MonoBehaviour {
     public IEnumerator dieRoutine() {
         dead = true;
 
+        GetComponent<BoxCollider2D>().enabled = false;
+        GetComponent<Rigidbody2D>().isKinematic = true;
+
+        ps.Play();
+
         aud.clip = death;
         aud.Play();
 
-        ps.Play();
-        yield return new WaitForSeconds(.35f);
+        yield return new WaitForSeconds(.5f);
 
         while (t < 1f) {
             transform.Rotate(Vector3.forward, Mathf.Lerp(minDegree, maxDegree, t));
